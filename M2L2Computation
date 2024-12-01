@@ -1,0 +1,347 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNL4XFAfEI1uO8TDXKJeTJ9",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Vorlon41/Expressway-to-Data-Science-Python-Programming/blob/main/M2L2Computation\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "ddFEeR6DLUfm"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Module 2 Lab 2"
+      ],
+      "metadata": {
+        "id": "5LWRaDR1LWSR"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "Y__8eDQALXjX"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### Task Get some computation"
+      ],
+      "metadata": {
+        "id": "q2zCkpwWLc0s"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "hVRV48L9Ldv5"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Assign x with M2 y with N7\n",
+        "print out the equation and result of\n",
+        "\n",
+        " x + y\n",
+        "\n",
+        " x - y\n",
+        "\n",
+        " x * y\n",
+        "\n",
+        " x / y\n",
+        "\n",
+        " x // y\n",
+        "\n",
+        " x ** y\n",
+        "\n",
+        " x % y"
+      ],
+      "metadata": {
+        "id": "PIOgTtQ5LqpK"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x = 2\n",
+        "y = 3\n",
+        "print(x, '+', y, '=', x + y)\n",
+        "print(x, '-', y, '=', x - y)\n",
+        "print(x, '*', y, '=', x * y)\n",
+        "print(x, '/', y, '=', x / y)\n",
+        "print(x, '//', y, '=', x // y)\n",
+        "print(x, '**', y, '=', x ** y)\n",
+        "print(x, '%', y, '=', x % y)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "-YszcBR7L2Ce",
+        "outputId": "0d3f1234-d0b5-42ac-fb79-58283dd65305"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "2 + 3 = 5\n",
+            "2 - 3 = -1\n",
+            "2 * 3 = 6\n",
+            "2 / 3 = 0.6666666666666666\n",
+            "2 // 3 = 0\n",
+            "2 ** 3 = 8\n",
+            "2 % 3 = 2\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "6PhaWmlqL6sq"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### Task Get some other computation"
+      ],
+      "metadata": {
+        "id": "YzXRYbLLMDZL"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "1GF8WwGbMEow"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Assign x with a value you like2 y with another value you like7\n",
+        "\n",
+        "print out the equation and result of\n",
+        "\n",
+        " x + y\n",
+        "\n",
+        " x - y\n",
+        "\n",
+        " x * y\n",
+        "\n",
+        " x / y\n",
+        "\n",
+        " x // y\n",
+        "\n",
+        " x ** y\n",
+        "\n",
+        " x % y\n",
+        "\n",
+        " Are there some value that will crash your program? Why?"
+      ],
+      "metadata": {
+        "id": "LKoPSLVaMHVe"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x = 4\n",
+        "y = 5\n",
+        "print(x, '+', y, '=', x + y)\n",
+        "print(x, '-', y, '=', x - y)\n",
+        "print(x, '*', y, '=', x * y)\n",
+        "print(x, '/', y, '=', x / y)\n",
+        "print(x, '//', y, '=', x // y)\n",
+        "print(x, '**', y, '=', x ** y)\n",
+        "print(x, '%', y, '=', x % y)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "DZ8zPbKUMO1T",
+        "outputId": "c93ceb6d-3543-4b9f-a9ee-2b8b2d52432c"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "4 + 5 = 9\n",
+            "4 - 5 = -1\n",
+            "4 * 5 = 20\n",
+            "4 / 5 = 0.8\n",
+            "4 // 5 = 0\n",
+            "4 ** 5 = 1024\n",
+            "4 % 5 = 4\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "QqEG_guzMRX9"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Get Inputs from Users"
+      ],
+      "metadata": {
+        "id": "ptv4tCUzMT07"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "MDezP8GWMUaK"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### Task Help the Use"
+      ],
+      "metadata": {
+        "id": "ZjGmTMeKMWC8"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "9WpOzrBAMXK4"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Ask the user to enter an integer2 convert and assign it to xa\n",
+        " Ask the user to enter another integer2 convert and assign it to ya\n",
+        " print out the equation and result of\n",
+        "\n",
+        " x + y\n",
+        "\n",
+        " x - y\n",
+        "\n",
+        " x * y\n",
+        "\n",
+        " x / y\n",
+        "\n",
+        " x // y\n",
+        "\n",
+        " x ** y\n",
+        "\n",
+        " x % y\n",
+        "\n",
+        "Are there some value that will crash your program? Why?"
+      ],
+      "metadata": {
+        "id": "NrHBQiKdMZgR"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x = int(input('Enter an integer: '))\n",
+        "y = int(input('Enter another integer: '))\n",
+        "print(x, '+', y, '=', x + y)\n",
+        "print(x, '-', y, '=', x - y)\n",
+        "print(x, '*', y, '=', x * y)\n",
+        "print(x, '/', y, '=', x / y)\n",
+        "print(x, '//', y, '=', x // y)\n",
+        "print(x, '**', y, '=', x ** y)\n",
+        "print(x, '%', y, '=', x % y)\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "OxxpsoH5MghO",
+        "outputId": "d26552d2-1ed9-4767-e9a7-c9767f7cc32d"
+      },
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Enter an integer: 5\n",
+            "Enter another integer: 10\n",
+            "5 + 10 = 15\n",
+            "5 - 10 = -5\n",
+            "5 * 10 = 50\n",
+            "5 / 10 = 0.5\n",
+            "5 // 10 = 0\n",
+            "5 ** 10 = 9765625\n",
+            "5 % 10 = 5\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "x9UKc2BWMjtL"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
